@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @303dog
+- 👋 Hi, I’m @303dog | Paul
 - 👀 I’m interested in all things technology!
 - 🌱 I’m currently focused on finding engaging ways to learn & practice design patterns. 
 - 💞️ I am continuing to explore the depths of data structures and algorithms with every project I take on.
